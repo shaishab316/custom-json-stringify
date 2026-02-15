@@ -1,6 +1,6 @@
 {
   "name": "@shaishab316/custom-json-stringify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom JSON.stringify with double-precision float formatting and pretty printing",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
